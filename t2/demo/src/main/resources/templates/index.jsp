@@ -3,13 +3,12 @@
 
 <head>
     <meta charset="UTF-8" />
-    <title>第一个HTML页面</title>
+    <title>第一个HTML页面 -- jsp</title>
 </head>
 
 <body>
     <h1>Hello Spring Boot!!!</h1>
     <p th:text="${hello}"></p>
-    这里是：<p th:text="${world}"></p>
 </body>
 
 </html>
