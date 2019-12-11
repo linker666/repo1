@@ -1,4 +1,4 @@
-package com.example.demo.controller;
+package com.example.demo;
 
 import java.util.HashMap;
 
@@ -6,7 +6,7 @@ import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 
 @Controller
-public class TestController {
+public class testController {
 
     /**
      * 本地访问内容地址 ：http://localhost:8080/hello
